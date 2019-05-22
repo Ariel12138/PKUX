@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Research"
+title: "PKUX Lab - Research"
 layout: textlay
 excerpt: "Allan Lab -- Research"
 sitemap: false

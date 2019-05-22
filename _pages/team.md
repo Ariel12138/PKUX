@@ -6,14 +6,14 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# 团队成员
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+跳转到 [教职工](#staff), [博士和研究生](#博士和硕士研究生), [校友](#校友), [行政支持](#administrative-support), [实验室其他贡献人员](#其他贡献者).
 
-## Staff
+## 教职工
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -78,7 +78,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Master and Bachelor Students
+## 博士和硕士研究生
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -132,7 +132,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-## Alumni
+## 校友
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -165,10 +165,10 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-
+## 其他贡献者
 <table align="center" style="width:100%">
  <tr>
-    <th>Visitors</th>
+    <th>其他贡献者</th>
     <th>Master Students</th>
     <th>Bachelor Students</th>
   </tr>
