@@ -6,13 +6,6 @@ sitemap: false
 permalink: /team/
 ---
 
-# 团队成员
-
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-跳转到 [教职工](#staff), [博士和研究生](#博士和硕士研究生), [校友](#校友), [行政支持](#administrative-support), [实验室其他贡献人员](#其他贡献者).
-
 ## 实验室成员
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -26,7 +19,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /> -->
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <i>{{ member.info }}<br>邮箱: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}

@@ -8,9 +8,10 @@
 #  education3:
 #  education4:
 
-- name: Corne Koks
+- name: Menno de Jong
   photo: rock.jpg
-  info: Master student
+  info: 实验室顾问
   email: -@Physics.LeidenUniv.nl
-  number_educ: 0
-  education1:
+  number_educ: 2
+  education1: 荷兰屯特大学 传播学系主任
+  education2: 传播学 终身教授(Full Professor)
