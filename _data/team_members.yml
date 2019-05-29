@@ -2,11 +2,11 @@
   photo: Milan.jpg
   info: 实验室主任
   email: yjs@ss.pku.edu.cn
-  number_educ: 4
+  number_educ: 2
   education1: 中国翻译协会 理事
   education2: 北京大学副教授 数字艺术与技术传播系副系主任
   education3: 
-  education4: 
+
 
 - name: 高志军
   photo: bio-photo.jpg
@@ -33,3 +33,10 @@
   education1: 北京大学 计算机辅助翻译 研究生
   education2: 研究方向：技术文档评估
 
+- name: 刘叶子
+  photo: Koen.jpg
+  info: 实验室成员
+  email: 
+  number_educ: 2
+  education1: 同济大学 本科生
+  education2: 研究方向：用户体验
