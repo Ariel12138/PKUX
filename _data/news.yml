@@ -1,24 +1,32 @@
-- date: 01. January 2019
-  headline: "The inhomogeneous superfluid paper <a href='https://arxiv.org/abs/1901.00149'>is on arXiv</a>. <img src='/images/newspic/SFnews.png' class='img-responsive' style='max-width: 192px' />"
-
-- date: 13. December 2018
-  headline: "Our paper about how to construct an STM is in <a href='https://aip.scitation.org/doi/10.1063/1.5064442'>Review of Scientific Instruments</a>. <img src='/images/newspic/DomeNews.png' class='img-responsive' style='max-width: 192px' />"
-
-- date: 08. October 2018
-  headline: "We discovered charge trapping in a high-Tc superconductor! Publication in <a href='https://www.nature.com/articles/s41567-018-0300-z'>Nature Physics</a>. <img src='/images/pubpic/Pub_BCl.png' class='img-responsive' style='max-width: 192px' />"
 
 - date: 27. September 2018
   headline: "Our MHz amplifier for STM is published in <a href='https://aip.scitation.org/doi/10.1063/1.5043267'>Review of Scientific Instruments</a>. <img src='/images/newspic/amp.PNG' class='img-responsive' style='max-width: 192px' />"
 
-- date: 16. May 2018
-  headline: "Milan, Koen and Irene talk about superconductivity in <a href='https://youtu.be/hxz22AYUGhM'>Made in Leiden</a>."
+- date: 2019-5-30
+  headline: 高志军老师在tcworld大会就技术中文阅读体验研究进行分享。
 
-- date: 4. May 2018
-  headline: "Welcome Ram!"
+- date: 2019-5-20
+  headline: 实验室成员发表技术中文阅读体验研究论文（EI收录）
 
-- date: 5.-9. March 2018
-  headline: "Irene and Milan are at the March Meeting (Talk <a href='http://meetings.aps.org/Meeting/MAR18/Session/E45.11'>Tue 10am, session E45</a>)"
+- date: 2019-5-10
+  headline: 预告：实验室与中国标准化协会联合举办的文档代码化高级研修班即将于6月开班。
 
-- date: 27. December 2017
-  headline: "The smart tips are <a href='https://arxiv.org/pdf/1712.08620.pdf'> on arXiv!</a> A collaboration with the <a href='http://groeblacherlab.tudelft.nl/'>Gröblacher Lab</a> at TU Delft. Stay tuned. <img src='/images/newspic/SmartTip.png' class='img-responsive' style='max-width: 192px' />"
+- date: 2019-5-9
+  headline: IBM工程师回母校进行内容设计讲座。
+
+- date: 2019-5-7
+  headline: 日本技术传播协会来访中国标准化协会技术传播服务委员会，黑田先生分享了健康传播的内容和老年人的设计需求。
+
+- date: 2019-1-4
+  headline: 美国代顿大学师生代表团来访，双方师生就技术传播进行深入交流。
+
+- date: 2018-12-23
+  headline: 在北京阿里中心组织开展第七次技术传播沙龙活动
+
+- date: 2018-12-6
+  headline:  参访联想总部用户体验实验室和可靠性实验室，并深入交流了联想文档的开发流程和技术。
+
+- date: 2018-11-29
+  headline: 阿里云文档团队交流分享
+
 

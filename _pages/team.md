@@ -13,7 +13,7 @@ permalink: /team/
 
 跳转到 [教职工](#staff), [博士和研究生](#博士和硕士研究生), [校友](#校友), [行政支持](#administrative-support), [实验室其他贡献人员](#其他贡献者).
 
-## 教职工
+## 实验室成员
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -24,7 +24,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /> -->
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
@@ -78,7 +78,7 @@ permalink: /team/
 
 
 
-## 博士和硕士研究生
+## 实验室顾问
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -144,7 +144,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /> -->
   <h4>{{ member.name }}</h4>
   <i>{{ member.duration }} <br> Role: {{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
