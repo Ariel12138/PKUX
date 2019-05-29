@@ -6,20 +6,18 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+# 研究方向
+  
+随着经济的发展，技术信息越来越受到各方的重视，但是国内相关的研究不多，而国外从上世纪30年代就已经开始，所以此方面的研究是必要且有很大空间的。  
+    
+我们围绕技术信息体验提出了一系列相关研究项目，包括技术信息的传播媒介、技术信息的阅读目的、技术信息在不同阶段的体验（需要，搜寻，阅读，使用）、信息设计、沟通设计和用户体验等。希望能在国内建立起一套完整的技术信息体系，填补此方面的空缺。  
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+早年间技术传递主要通过传统的文档，近年来随着技术的发展，产生了一系列新型的提供技术信息的方式，目前常见的包括网页、嵌入式帮助、chatbot、AR、VR等。那到底有哪些传递方式？这些新兴的传递方式又带来什么样的影响和体验都需要进一步的研究。  
 
-Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? 
- 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
+技术信息的阅读目的和小说等常见的文学读物不同，通常在于快速找到需要的信息。用户阅读技术信息时，可能会处在一种焦急甚至有可能愤怒的情况，这一不同的阅读情绪是技术信息阅读的一个重要特征。这种不同也导致我们不能直接将类似的阅读研究直接迁移到技术信息上。  
 
-Currently, our instrument of choice  is SI-STM.  State-of-the-art SI-STM measures an array of tunneling spectra on a given sample, registered to the atomic sites with picometer precision. Each is proportional to the local density of states at a given location. Ideally, the recorded spectra are so tightly packed that the measurement yields a three-dimensional mapping of the local density of states as a function of locations and energy. This is shown on the image on the right-hand side (10x10 nm2), and its Fourier transform, below.
+技术信息的体验存在于用户的整个寻求帮助行为中，从需要信息，到搜索信息，阅读信息，使用信息等。用户是如何查找技术信息的？尝试几次之后会放弃？用户是以何种方式阅读技术信息？用户对技术信息产生的体验，是整个实验室的研究范围。
 
-The quantum materials which we will investigate encapsulate some of the great unsolved mysteries of physics. They include high-temperature superconductors, quantum-critical compounds, graphene, and topological electronic matter that can be used for error-resistant quantum computing.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
+### 技术中文阅读体验
 
-A main goal is to use modern technology to build the new instrumentation needed to understand these quantum materials. I learned my trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where we investigated coupled cavity arrays in circuit QED. This allowed me to learn new techniques such as high frequency measurements, low temperature noise-free amplification, and quantum-limited measurements. The goal is to combine these with SI-STM.
-
-This will enable the instrumental capabilities to visualize the different quantum mechanical degrees of freedom needed to understand next-generation quantum materials. STM will be the main method, but we use different spectroscopic-imaging techniques to visualize not only the topography, but also the density of states, spins, and other degrees of freedom hidden below the surface.
