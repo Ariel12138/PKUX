@@ -1,12 +1,11 @@
 ---
 title: "PKUX - Home"
 layout: homelay
-excerpt: "北京大学用户体验实验室"
+excerpt: "北京大学用户体验实验室(筹）"
 sitemap: false
 permalink: /
 ---
 
-北京大学用户体验实验室（筹备）
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -54,3 +53,12 @@ permalink: /
 </figure> -->
 
 实验室的主要目为教学与研究，学生可以利用此实验室进行用户体验评估的实验，从而可以完成课程作业和学位论文，未来时机成熟后将对外开放，承接社会项目。
+
+实验室有两大特色：“**便携**”和“**人体测量学**”。
+
+### 便携
+
+实验室的设备均为最新采购的可移动设备，可在传统实验室之外，进行实验，大大拓展了研究范围。
+
+### 人体测量学
+基于便携设备，可以测量用户使用过程中的眼动、脑电、皮电，表情特征等人体数据。
